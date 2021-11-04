@@ -64,6 +64,11 @@ body {
 
 /* ///////////// */
 
+.clock {
+  display: flex;
+  justify-content: center;
+}
+/* ///////////// */
 .film-info {
   margin-top: 60px;
 }
